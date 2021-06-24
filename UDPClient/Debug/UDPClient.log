@@ -1,0 +1,3 @@
+﻿  UDPClient.cpp
+C:\Users\mikel\source\repos\Lab2(TIMP)\UDPClient\UDPClient.cpp(52,7): warning C4101: 'message': unreferenced local variable
+  UDPClient.vcxproj -> C:\Users\mikel\source\repos\Lab2(TIMP)\Debug\UDPClient.exe
